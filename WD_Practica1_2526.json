@@ -1,0 +1,183 @@
+[
+    {
+      "id": 1,
+      "autor": "Marc Águila Patiño y Xavi Castelló López",
+      "titulo": "World Cup 2010",
+      "img": "https://raw.githubusercontent.com/duprod/Mundial.final/refs/heads/main/imagenes/iniesta.jpeg",
+      "alt": "Andrés Iniesta rematando el gol de la final del mundial 2010",
+      "texto": "Es un sitio web tributo al torneo de la FIFA World Cup 2010 celebrado en Sudáfrica",
+      "url": "https://duprod.github.io/Mundial.final/"
+    },
+    {
+      "id": 2,
+      "autor": "Alicia Allam Sahrane",
+      "titulo": "The nbhd - Infografía",
+      "img": "https://aas34udl.github.io/thenbhd/img/ep-ultrasound.jpg",
+      "alt": "",
+      "texto": "El objetivo de mi página web es dar a conocer la banda The Neighbourhood y a su vez, actualizar nuevos lanzamientos.",
+      "url": "https://aas34udl.github.io/thenbhd"
+    },
+    {
+      "id": 3,
+      "autor": "Alba Vilanova i Neus Arbonés",
+      "titulo": "Bajoti",
+      "img": "https://raw.githubusercontent.com/vilanovalba13-rgb/Bajoti/main/img/sombajoti.png",
+      "alt": "Restaurant Bajoti Façana",
+      "texto": "És la web del nostre restaurant fictici anomenat Bajoti",
+      "url": "https://vilanovalba13-rgb.github.io/Bajoti/"
+    },
+    {
+      "id": 4,
+      "autor": "Pau Artacho Porta, Ramon Llorach Guinovart",
+      "titulo": "Arxiu Grana",
+      "img": "https://github.com/ramonlloorach/nasitc/blob/index/portada.jpg?raw=true",
+      "alt": "Imatge de portada amb logotip arxiu grana",
+      "texto": "Web sobre el Gimnàstic de Tarragona, creada per ordenar la informació del club i facilitar l'accés als aficionats.",
+      "url": "https://ramonlloorach.github.io/nasitc/"
+    },
+    {
+      "id": 5,
+      "autor": "Paula Baiges i Oriol Vendrell",
+      "titulo": "Cal mitxó",
+      "img": "https://0206baipas-ops.github.io/CAL-MITJO/img/principal2.jpg",
+      "alt": "",
+      "texto": "Web de calcetines",
+      "url": "https://0206baipas-ops.github.io/CAL-MITJO/"
+    },
+    {
+      "id": 6,
+      "autor": "Carla Prat y Silvia Barañán",
+      "titulo": "LEVEL UP",
+      "img": "https://silvi12-06.github.io/LevelUp/img/pesas%20carrousel.jpg",
+      "alt": "En esta imagen aparece el navegador de la web donde están todos los apartados de la página web y el hero.",
+      "texto": "Landing page de un centro deportivo enfocado en acompañar a sus usuarios hacia su mejor versión física y mental.",
+      "url": "https://silvi12-06.github.io/LevelUp/"
+    },
+    {
+      "id": 7,
+      "autor": "Francesc Jiménez i Jaume Bondia",
+      "titulo": "Onami.cat",
+      "img": "https://github.com/AnsemDeWitt/Onami/blob/main/srcimg.png?raw=true",
+      "alt": "Landing page de Onami.cat con contenido audiovisual recomendado.",
+      "texto": "Servicio de streaming en catalán ofreciendo contenido internacional y nacional.",
+      "url": "https://ansemdewitt.github.io/Onami/"
+    },
+    {
+      "id": 8,
+      "autor": "Violeta Gomez, Anna Casasús, Raluca Andelean",
+      "titulo": "",
+      "img": "https://annacasasusudl.github.io/CaviarOutfitsDefinitiuFinal/capt_web/carhartt.jpg",
+      "alt": "",
+      "texto": "",
+      "url": "https://annacasasusudl.github.io/CaviarOutfitsDefinitiuFinal/"
+    },
+    {
+      "id": 9,
+      "autor": "Hilary Zhune, Yasmin Camuñas y Patricia Craciun",
+      "titulo": "Lost Concept",
+      "img": "https://github.com/craciunpaula13-create/lostconcept/blob/main/fotos/logoo.png?raw=true",
+      "alt": "Logo de Lost Concept.",
+      "texto": "Web de moda streetwear con probador online y estética moderna.",
+      "url": "https://craciunpaula13-create.github.io/lostconcept/"
+    },
+    {
+      "id": 10,
+      "autor": "Awa Sarr Fall Sathie i Júlia Botargues Pifarré",
+      "titulo": "Lleida Jove",
+      "img": "https://awasrfl.github.io/LLeida-Jove/LOGO.png",
+      "alt": "Logo oficial de la pàgina web Lleida Jove",
+      "texto": "Landing page per estudiants UdL amb activitats culturals i recursos locals.",
+      "url": "https://awasrfl.github.io/LLeida-Jove/#"
+    },
+    {
+      "id": 11,
+      "autor": "Núria Fontova Conde",
+      "titulo": "GoldenTube",
+      "img": "https://nunu8.github.io/GoldenTube/RECURSOS/Logotip.png",
+      "alt": "Logotip GoldenTube",
+      "texto": "Landing page inspirada en la cultura de YouTube.",
+      "url": "https://nunu8.github.io/GoldenTube/"
+    },
+    {
+      "id": 12,
+      "autor": "Anne Marie Serban y Leo Gairí",
+      "titulo": "Malas Lenguas",
+      "img": "https://l3o-300.github.io/MALAS_LENGUAS/scrimg.png",
+      "alt": "Captura de pantalla de la página principal",
+      "texto": "Web que informa sobre personajes de la cultura pop con estilo divertido.",
+      "url": "https://l3o-300.github.io/MALAS_LENGUAS/"
+    },
+    {
+      "id": 13,
+      "autor": "Jana Casas Vendrell i Iris Gimenez Guerrero",
+      "titulo": "Landing Page Bresca",
+      "img": "https://gigue-21.github.io/Bresca/IMG/capçalera_brescaweb.png",
+      "alt": "Imatge capçalera web Bresca",
+      "texto": "Pàgina inspiracional per amants del disseny i interiorisme.",
+      "url": "https://gigue-21.github.io/Bresca/"
+    },
+    {
+      "id": 14,
+      "autor": "Qi Le, Pau i Noah",
+      "titulo": "$enior$wag",
+      "img": "https://qilejiang43.github.io/SeniorSwag/srcimg.png",
+      "alt": "Logo de la marca.",
+      "texto": "Venta de ropa streetwear para la tercera edad.",
+      "url": "https://qilejiang43.github.io/SeniorSwag/"
+    },
+    {
+      "id": 15,
+      "autor": "Aina Ruiz, Guillem Jimenez",
+      "titulo": "Companypedia",
+      "img": "https://quepongo10.github.io/Companypedia/srcimg.png",
+      "alt": "Parte inicial con título y navbar",
+      "texto": "Clasifica e informa sobre criaturas del videojuego Lethal Company.",
+      "url": "https://quepongo10.github.io/Companypedia/"
+    },
+    {
+      "id": 16,
+      "autor": "Enzo i Gemma",
+      "titulo": "MMC",
+      "img": "https://github.com/Gro4/MMC/blob/main/img/mural.jpg?raw=true",
+      "alt": "Mural amb el logo de MMC",
+      "texto": "Web del Museu del Mural Català amb informació d'exposicions i rutes murals.",
+      "url": "https://gro4.github.io/MMC/"
+    },
+    {
+      "id": 17,
+      "autor": "Aina V. Serra, Aina Ortiz",
+      "titulo": "Potes i Bigotis",
+      "img": "https://ainavictoriaserra-boop.github.io/PotesiBigotis/fotosanimals/preguntesfreq%C3%BCents.jpg",
+      "alt": "FAQ de la web amb menú i telèfon de rescat",
+      "texto": "",
+      "url": "https://ainavictoriaserra-boop.github.io/PotesiBigotis/"
+    },
+    {
+      "id": 18,
+      "autor": "Estel Suy i Celeste Montiel",
+      "titulo": "",
+      "img": "https://estel152.github.io/Dolcea/img/texturapast%C3%ADs1.JPG",
+      "alt": "Texto alternativo de la imagen, que describa el contenido de la imagen",
+      "texto": "",
+      "url": "https://estel152.github.io/Dolcea/"
+    },
+    {
+      "id": 19,
+      "autor": "Laia Urbano y Xènia Prat",
+      "titulo": "Oasis",
+      "img": "",
+      "alt": "",
+      "texto": "",
+      "url": "https://github.com/laiaurbano/OASIS"
+    },
+     {
+      "id": 20,
+      "autor": "Rafael Gobçalves Da Silva",
+      "titulo": "E-commerce de Bodykits Automotrices",
+      "img": "",
+      "alt": "",
+      "texto": "",
+      "url": "https://github.com/raa14gon/top_secret"
+    }
+  ]
+  
