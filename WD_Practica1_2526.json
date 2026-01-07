@@ -1,14 +1,5 @@
 [
     {
-      "id": 0,
-      "autor": "Afra Pascual",
-      "titulo": "Piolin",
-      "img": "https://github.com/afrikiudl/piolin/blob/main/img/bird.png?raw=true",
-      "alt": "Piolin con técnica de GSAP",
-      "texto": "Ejemplo de uso de GSAP con Piolin Cayendo",
-      "url": "https://afrikiudl.github.io/piolin/"
-    },
-    {
       "id": 1,
       "autor": "Marc Águila Patiño y Xavi Castelló López",
       "titulo": "World Cup 2010",
@@ -174,7 +165,7 @@
       "id": 19,
       "autor": "Laia Urbano y Xènia Prat",
       "titulo": "Oasis",
-      "img": "",
+      "img": "https://raw.githubusercontent.com/afrikiudl/practicawd/refs/heads/main/img/videojuegos.831f6cd2.jpg",
       "alt": "",
       "texto": "",
       "url": "https://github.com/laiaurbano/OASIS"
@@ -183,7 +174,7 @@
       "id": 20,
       "autor": "Rafael Gobçalves Da Silva",
       "titulo": "E-commerce de Bodykits Automotrices",
-      "img": "",
+      "img": "https://raw.githubusercontent.com/afrikiudl/practicawd/refs/heads/main/img/videojuegos.831f6cd2.jpg",
       "alt": "",
       "texto": "",
       "url": "https://github.com/raa14gon/top_secret"
