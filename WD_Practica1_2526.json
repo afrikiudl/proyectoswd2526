@@ -45,15 +45,6 @@
       "url": "https://0206baipas-ops.github.io/CAL-MITJO/"
     },
     {
-      "id": 6,
-      "autor": "Carla Prat y Silvia Barañán",
-      "titulo": "LEVEL UP",
-      "img": "https://silvi12-06.github.io/LevelUp/img/pesas%20carrousel.jpg",
-      "alt": "En esta imagen aparece el navegador de la web donde están todos los apartados de la página web y el hero.",
-      "texto": "Landing page de un centro deportivo enfocado en acompañar a sus usuarios hacia su mejor versión física y mental.",
-      "url": "https://silvi12-06.github.io/LevelUp/"
-    },
-    {
       "id": 7,
       "autor": "Francesc Jiménez i Jaume Bondia",
       "titulo": "Onami.cat",
@@ -178,6 +169,16 @@
       "alt": "",
       "texto": "",
       "url": "https://github.com/raa14gon/top_secret"
-    }
+    },
+    {
+      "id": 6,
+      "autor": "Carla Prat y Silvia Barañán",
+      "titulo": "LEVEL UP",
+      "img": "https://silvi12-06.github.io/LevelUp/img/pesas%20carrousel.jpg",
+      "alt": "En esta imagen aparece el navegador de la web donde están todos los apartados de la página web y el hero.",
+      "texto": "Landing page de un centro deportivo enfocado en acompañar a sus usuarios hacia su mejor versión física y mental.",
+      "url": "https://silvi12-06.github.io/LevelUp/"
+    },
+    
   ]
   
